@@ -1,0 +1,15 @@
+C:\Depo\Example\005_if\obj\Debug\net6.0\005_if.csproj.AssemblyReference.cache
+C:\Depo\Example\005_if\obj\Debug\net6.0\005_if.GeneratedMSBuildEditorConfig.editorconfig
+C:\Depo\Example\005_if\obj\Debug\net6.0\005_if.AssemblyInfoInputs.cache
+C:\Depo\Example\005_if\obj\Debug\net6.0\005_if.AssemblyInfo.cs
+C:\Depo\Example\005_if\obj\Debug\net6.0\005_if.csproj.CoreCompileInputs.cache
+C:\Depo\Example\005_if\bin\Debug\net6.0\005_if.exe
+C:\Depo\Example\005_if\bin\Debug\net6.0\005_if.deps.json
+C:\Depo\Example\005_if\bin\Debug\net6.0\005_if.runtimeconfig.json
+C:\Depo\Example\005_if\bin\Debug\net6.0\005_if.dll
+C:\Depo\Example\005_if\bin\Debug\net6.0\005_if.pdb
+C:\Depo\Example\005_if\obj\Debug\net6.0\005_if.dll
+C:\Depo\Example\005_if\obj\Debug\net6.0\refint\005_if.dll
+C:\Depo\Example\005_if\obj\Debug\net6.0\005_if.pdb
+C:\Depo\Example\005_if\obj\Debug\net6.0\005_if.genruntimeconfig.cache
+C:\Depo\Example\005_if\obj\Debug\net6.0\ref\005_if.dll
